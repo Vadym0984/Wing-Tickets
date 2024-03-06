@@ -1,1 +1,1 @@
-Fix typo in the user registration form
+Update README with setup instructions
