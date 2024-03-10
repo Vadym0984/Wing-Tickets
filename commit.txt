@@ -1,1 +1,1 @@
-Cleanup unused styles and components
+Refactor payment gateway integration logic
