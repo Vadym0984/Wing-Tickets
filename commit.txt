@@ -1,1 +1,1 @@
-Add unit tests for the new user profile feature
+Cleanup unused styles and components
