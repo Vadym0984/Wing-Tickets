@@ -1,1 +1,1 @@
-Implement caching for API responses
+Update README with setup instructions
