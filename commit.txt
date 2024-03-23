@@ -1,1 +1,1 @@
-Fix typo in the user registration form
+Cleanup unused styles and components
