@@ -1,1 +1,1 @@
-Update dependencies to the latest versions
+Fix typo in the user registration form
