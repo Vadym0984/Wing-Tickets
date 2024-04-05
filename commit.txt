@@ -1,1 +1,1 @@
-Add dark mode support for the settings page
+Implement caching for API responses
