@@ -1,1 +1,1 @@
-Fix bug with image upload validation
+Cleanup unused styles and components
