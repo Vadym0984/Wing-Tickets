@@ -1,6 +1,6 @@
 # Set start and end dates
-START_DATE="2024-03-03"
-END_DATE="2024-05-01"
+START_DATE="2024-05-03"
+END_DATE="2025-03-10"
 
 commit_messages=(
     "Fix typo in the user registration form"
