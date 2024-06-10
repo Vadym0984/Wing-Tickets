@@ -1,1 +1,1 @@
-Update README with setup instructions
+Fix bug with image upload validation
