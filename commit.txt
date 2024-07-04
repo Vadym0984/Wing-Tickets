@@ -1,1 +1,1 @@
-Update dependencies to the latest versions
+Add unit tests for the new user profile feature
