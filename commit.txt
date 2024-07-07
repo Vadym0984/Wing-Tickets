@@ -1,1 +1,1 @@
-Optimize performance for loading user dashboard
+Fix typo in the user registration form
