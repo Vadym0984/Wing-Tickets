@@ -1,1 +1,1 @@
-Add dark mode support for the settings page
+Fix typo in the user registration form
