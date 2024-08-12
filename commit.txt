@@ -1,1 +1,1 @@
-Fix bug with image upload validation
+Add unit tests for the new user profile feature
