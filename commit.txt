@@ -1,1 +1,1 @@
-Update dependencies to the latest versions
+Add dark mode support for the settings page
