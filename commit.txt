@@ -1,1 +1,1 @@
-Update dependencies to the latest versions
+Cleanup unused styles and components
