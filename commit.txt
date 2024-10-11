@@ -1,1 +1,1 @@
-Update dependencies to the latest versions
+Refactor payment gateway integration logic
