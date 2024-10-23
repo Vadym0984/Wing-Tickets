@@ -1,1 +1,1 @@
-Refactor payment gateway integration logic
+Fix typo in the user registration form
