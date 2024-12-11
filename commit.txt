@@ -1,1 +1,1 @@
-Fix bug with image upload validation
+Fix typo in the user registration form
