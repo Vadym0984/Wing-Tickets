@@ -1,1 +1,1 @@
-Optimize performance for loading user dashboard
+Cleanup unused styles and components
