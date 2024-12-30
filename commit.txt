@@ -1,1 +1,1 @@
-Implement caching for API responses
+Cleanup unused styles and components
