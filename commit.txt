@@ -1,1 +1,1 @@
-Add dark mode support for the settings page
+Optimize performance for loading user dashboard
