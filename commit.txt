@@ -1,1 +1,1 @@
-Fix bug with image upload validation
+Add dark mode support for the settings page
