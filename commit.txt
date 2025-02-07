@@ -1,1 +1,1 @@
-Update dependencies to the latest versions
+Fix bug with image upload validation
