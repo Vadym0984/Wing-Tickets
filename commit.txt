@@ -1,1 +1,1 @@
-Fix typo in the user registration form
+Add unit tests for the new user profile feature
