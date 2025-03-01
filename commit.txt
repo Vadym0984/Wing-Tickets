@@ -1,1 +1,1 @@
-Fix typo in the user registration form
+Implement caching for API responses
