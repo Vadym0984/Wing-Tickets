@@ -1,1 +1,1 @@
-Optimize performance for loading user dashboard
+Update README with setup instructions
