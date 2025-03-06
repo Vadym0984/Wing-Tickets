@@ -1,1 +1,1 @@
-Update README with setup instructions
+Update dependencies to the latest versions
