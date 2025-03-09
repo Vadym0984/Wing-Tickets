@@ -1,1 +1,1 @@
-Add dark mode support for the settings page
+Refactor payment gateway integration logic
